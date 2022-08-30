@@ -1,0 +1,57 @@
+
+
+/* 
+SE PUEDE DECLARAR LOS ESTILOS COMO EN LA PARTE DE ARRIBA O ETIQUETA X ETIQUETA
+th{
+    border: 1px solid blueviolet;
+}
+
+td {
+    border: 1px solid blueviolet;
+} */
+
+hi{ /*para referirnos a alguna etiqueta con clase, se manda llamar el nombre de la Class con un punto*/
+    border: none; 
+    /* No quiero borde */
+    color: purple;
+    font-size: 2cm;
+}
+
+/*.HowAreU{ 
+    border: 1rem dotted black; /*Rem es una medida*/
+    /* background-color: rgb(231, 194, 29);
+    color: blue;
+    font-size: 1rem;
+} */
+
+#clase1{ /*este gato hace referencia a una clase especifica declarada en el documento html*/
+    width: 10vw; /*View width todo el ancho de la pantalla*/
+    height: 10vh; /*View port todo el ancho de la pantalla*/
+    border: 1cm blue solid;
+    background-color: rgb(226, 159, 43);
+}
+/* }
+div.elfo ol>li {
+    background-color: rgb(23, 89, 212);
+} */
+
+.div__rings--green > *{ /*el mayor que > da a entender que la etiqueta DIV y la clase*/
+    background-color: hotpink
+}
+
+#Legolas ol.ol__movies--bold>li[title="movie"]{
+font-weight: bold;
+color: brown;
+} 
+.div__main{
+    width: 200px;
+    height: 200px;
+    border: 5px solid color rgb (166, 255,0);
+}
+#p__id{
+    background-color: red;
+    font: 20px;
+    color: white;
+}
+
+
