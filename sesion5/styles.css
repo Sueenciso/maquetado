@@ -68,3 +68,54 @@ h1{
 .button__ease-out--yellow:hover{
     width: 240px;
 }
+/* @media only screen and (max-width: 600px){ 0 a los 599px */
+    /* body{
+        background-color: aqua;
+    }
+} */
+/*@media only screen and (min-width: 600px){ /*mayor o igual a 600px y entre 767px*/
+    /* body{
+        background-color: red;
+    }
+} */
+
+/*@media only screen and (min-width: 768px){ /*mayor o igual a 768px y entre 991px*/
+    /* body{
+        background-color: greenyellow;
+    }
+} */
+/*@media only screen and (min-width: 992px){ /*mayor o igual a 992px y entre 1199px
+    body{
+        background-color: hotpink;
+    }
+}
+@media only screen and (min-width: 1200px){ /*mayor o igual de 1200px*/
+    /* body{
+        background-color: blue;
+    }
+} */
+
+.div__card--border-black{
+    width: 180px;
+    height: 300px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: green;
+}
+
+@media only screen and (max-width: 600px){
+    .div__card--border-black{
+        display: none;
+    }
+    .button__key-frames--hotpink{
+     width: 60px;  
+     height: 30px; 
+     font-size: 8px;
+    }
+}
+@media only screen and (min-width: 768px) {
+    .div__card--border-black{
+        background-color: hotpink;
+    }
+    
+}
