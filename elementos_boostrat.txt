@@ -1,0 +1,43 @@
+1. tittle
+2. header
+3. nav
+4. asaid izq
+5. unorder list
+6. main
+7. asaid der
+8. article
+9. section
+10. card -sue
+11. acards
+12. buttons
+13.icons
+14.links
+15.login
+16.position
+17.hover
+18.hashtag
+19.footer
+20.offcanvas -Vic
+21.parrafos
+22.responsive
+23.tags
+24.reaction
+25.animaciones
+26.menu hamburguesa 
+27.menu de busqueda
+28.listas ordenadas
+29.Titulos
+30.pagina de creacion de post - Cris
+31.edicion de post
+32.formularios
+33.usuarios
+34.notificaciones
+35.menus desplegables
+36.relevant lastest y to
+37.anuncios
+38.estilos de letra
+39.alineacion items y fuente
+40.viñetas de la lista desordenada
+41.divs
+42. favicons (icono de la pestaña, fb, tw)-Alex
+
